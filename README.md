@@ -7,3 +7,16 @@ Steps -
 * Here 1 means perfectly similar and 0 means totally diffrent .
 ###
 ### In future I want to convert this whole program into a webapp by using ' FLASK ' .  ###
+
+## Case 1 - When images are similar - 
+![100%](https://github.com/AKSHATM99/Image_Comparison/blob/main/Assets/100%25.png)
+
+## Case 2 - When similarity is less - 
+![10%](https://github.com/AKSHATM99/Image_Comparison/blob/main/Assets/10%25.png)
+
+## Tools Used-
+1. OpenCV
+2. SSIM
+3. Numpy
+4. Python 3.8
+5. Jupyter Notebook
