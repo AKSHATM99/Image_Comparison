@@ -5,4 +5,5 @@ Steps -
 * Then we are resizing both images and making them same in size.
 * Images are passed to the SSIM function and function returns the value between '0 to 1 '.
 * Here 1 means perfectly similar and 0 means totally diffrent .
-In future I want to convert this whole program into a webapp by using ' FLASK ' . 
+###
+### In future I want to convert this whole program into a webapp by using ' FLASK ' .  ###
